@@ -18,3 +18,5 @@ Para ejecutar en entornos diferentes, asegúrese de tener instaladas la versiones
 - Manipulación de datos, operaciones estadísticas básicas
 - Visualización simple utilizando matplotlib
 - Ejercicio Práctico: Análisis de Datos de Ventas
+
+### [introduccion_numpy](https://github.com/jdrodas/fundamentos_IA/tree/main/introduccion_numpy)
