@@ -23,3 +23,5 @@ Para ejecutar en entornos diferentes, asegúrese de tener instaladas la versiones
 - Fundamentos de Arrays, propiedades básicas, indexación y rebanado
 - Operaciones y funciones, difusión, normalización de datos
 - Algebra lineal básica 
+
+### [introduccion_matplotlib](https://github.com/jdrodas/fundamentos_IA/tree/main/introduccion_matplotlib)
