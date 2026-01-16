@@ -25,3 +25,4 @@ Para ejecutar en entornos diferentes, asegúrese de tener instaladas la versiones
 - Algebra lineal básica 
 
 ### [introduccion_matplotlib](https://github.com/jdrodas/fundamentos_IA/tree/main/introduccion_matplotlib)
+- Conceptos introductorios de graficación
