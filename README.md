@@ -8,6 +8,8 @@ La siguiente especificación de contenidos presenta los proyectos según el avance
 Este repositorio contiene proyectos implementados como [Jupyter Notebooks](https://jupyter.org/) en Python, elaborados utilizando la plataforma de [Google Colab](https://colab.research.google.com/). 
 Para ejecutar en entornos diferentes, asegúrese de tener instaladas la versiones más recientes de las librerías en Python utilizadas en cada uno de los archivos.
 
+El contenido de estos notebooks ha sido validado utilizando herramientas como **[Claude.AI](https://claude.ai/)** y **[Google Gemini](https://gemini.google.com/app)**, para corroborar actualización y acertividad en su estructuración. Si encuentras algún elemento que esté fallando o consideres que se deba incluir, no dudes en escribirme.
+
 
 ## Tabla de Contenidos - Proyectos por tema
 
@@ -25,4 +27,6 @@ Para ejecutar en entornos diferentes, asegúrese de tener instaladas la versiones
 - Algebra lineal básica 
 
 ### [introduccion_matplotlib](https://github.com/jdrodas/fundamentos_IA/tree/main/introduccion_matplotlib)
-- Conceptos introductorios de graficación
+- Imports y configuración básica, anatomía de una figura, gráficos fundamentales
+- Personalización esencial, casos de uso en IA
+- Seaborn como extensión de matplotlib: Boxplots y violin plots
